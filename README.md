@@ -43,4 +43,5 @@ The program simulates the DFA logic by processing the input string character by 
 
 The explanation of the development process, the theoretical background, and a functional demonstration can be found at the following link:
 
-[INSERT VIDEO LINK HERE]
+[[INSERT VIDEO LINK HERE]](https://youtu.be/9YacQWugwI0?si=m-74HoZC2R0Gx7CE)
+
